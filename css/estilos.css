@@ -1,0 +1,64 @@
+body { 
+    background-image: url('https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.15752-9/96731266_563332551255660_7298796710480838656_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=CIu7iAsQXewAX8xW2-N&_nc_ht=scontent.fcgh2-1.fna&oh=7464b9828275d6c7304a513ef7955190&oe=5EE073A1'); 
+      
+      background-size: auto 100vh;
+      
+      height: 100vw;
+      
+      font-family: Arial; 
+      
+      Color: #ccff33; 
+      
+    }
+    
+    .menu {
+      
+    background-color: #ff33; 
+      
+    } 
+     
+    .menu ul {
+      display: flex;
+      justify-content: space-between;
+      
+    }
+    
+    .menu li {
+      
+      list-style: none;
+      
+    }
+    
+    a {
+      color: pink;
+      font-family: Calibri;
+      
+    }
+    
+    a{
+      text-decoration: none;
+      
+    }
+    
+    a:hover {
+      
+     text-decoration: underline;  
+        
+    }
+    
+    .site-title,
+    .site-subtitle {
+      
+      text-align: center;
+      
+    }
+    
+    .site-subtitle{
+      
+      font-family: times; 
+      font-style: italic;
+      color: gold;
+      
+      
+      
+    }
